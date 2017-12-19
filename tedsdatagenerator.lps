@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="tedsdatagenerator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="19"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="458"/>
+        <CursorPos X="39" Y="475"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="81"/>
+        <CursorPos X="10" Y="109"/>
+        <UsageCount Value="7"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\hash\src\sha1.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="10" Y="49"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="G:\usr\share\lazarus\1.6.4\lcl\include\radiogroup.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="413"/>
+        <CursorPos Y="441"/>
+        <UsageCount Value="15"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="G:\usr\share\lazarus\1.6.4\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3241"/>
+        <CursorPos Y="3271"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="G:\usr\share\lazarus\1.6.4\lcl\include\customedit.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos Y="97"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="316" Column="19" TopLine="289"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="310" Column="6" TopLine="291"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="462" Column="24" TopLine="440"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="284" TopLine="251"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="125" Column="38" TopLine="105"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="146" Column="46" TopLine="129"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="148" Column="46" TopLine="131"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="309" Column="36" TopLine="294"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="80" Column="32" TopLine="53"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="309" TopLine="261"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="60" Column="79" TopLine="56"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="293" Column="17" TopLine="291"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="93" Column="19" TopLine="76"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="115" Column="24" TopLine="86"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="116" Column="17" TopLine="87"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="293" Column="17" TopLine="264"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="489" Column="22" TopLine="460"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="496" Column="46" TopLine="467"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="514" Column="24" TopLine="485"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="516" Column="48" TopLine="487"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="533" Column="22" TopLine="504"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="540" Column="46" TopLine="511"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="564" TopLine="536"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="295" Column="11" TopLine="291"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="324" Column="39" TopLine="324"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="619" Column="11" TopLine="585"/>
+      </Position26>
+      <Position27>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="492" Column="9" TopLine="475"/>
+      </Position27>
+      <Position28>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="516" Column="11" TopLine="488"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_tedsdatagenerator.pas"/>
+        <Caret Line="534" Column="9" TopLine="506"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
